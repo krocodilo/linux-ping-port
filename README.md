@@ -1,4 +1,4 @@
-# TestConnect port ping
+# TestConnect - port ping on Linux
 Script that uses the 'nc' command in a loop to test connection to a specific port on a host
 
 You can costumize a few default settings, including the saved hosts and port keywords, right in the beginning of the script
